@@ -1,4 +1,0 @@
-streamlit
-crewai>=1.0.0
-crewai-tools>=1.0.0
-litellm>=1.40.0
