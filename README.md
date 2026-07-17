@@ -2,7 +2,7 @@
 
 A multi-agent AI system that researches, writes, and edits blog articles on any topic — built with [CrewAI](https://www.crewai.com/), Groq-hosted open-source LLMs, and live web search.
 
-**🔗 Live app:** _[add your Streamlit app link here]_
+**🔗 Live app:** _[https://ai-content-crew-xwjamzcdazi6nxc9ncn3ed.streamlit.app/]_
 
 ---
 
